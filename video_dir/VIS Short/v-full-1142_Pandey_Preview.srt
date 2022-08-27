@@ -1,0 +1,52 @@
+1
+00:00:00,160 --> 00:00:03,760
+we present medley a mixed initiative
+
+2
+00:00:02,159 --> 00:00:06,080
+interface for interactive dashboard
+
+3
+00:00:03,760 --> 00:00:07,839
+composition medley recommends dashboard
+
+4
+00:00:06,080 --> 00:00:10,080
+collections to help users compose a
+
+5
+00:00:07,839 --> 00:00:11,679
+dashboard it provides recommendations
+
+6
+00:00:10,080 --> 00:00:13,679
+based on both data attributes and
+
+7
+00:00:11,679 --> 00:00:15,440
+dashboard intents and a lightweight
+
+8
+00:00:13,679 --> 00:00:18,000
+interface for configuring interaction
+
+9
+00:00:15,440 --> 00:00:19,680
+between dashboard elements a preliminary
+
+10
+00:00:18,000 --> 00:00:21,760
+user study suggested that medley's
+
+11
+00:00:19,680 --> 00:00:23,519
+features effectively assist in active
+
+12
+00:00:21,760 --> 00:00:26,320
+dashboard composition during visual
+
+13
+00:00:23,519 --> 00:00:26,320
+analysis
+

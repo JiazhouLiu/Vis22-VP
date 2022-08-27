@@ -1,0 +1,23 @@
+1
+00:00:00,000 --> 00:00:03,950
+Customizing flow visualization often requires complicated interactions…
+
+2
+00:00:03,950 --> 00:00:07,430
+To reduce the interaction effort, we design FlowNL.
+
+3
+00:00:07,430 --> 00:00:11,330
+FlowNL supports queries of flow structures in natural languages.
+
+4
+00:00:11,330 --> 00:00:16,000
+It translates natural queries into declarative specifications for visualization.
+
+5
+00:00:16,000 --> 00:00:20,500
+It allows users to define new features using various kinds of existing structures.
+
+6
+00:00:20,500 --> 00:00:25,000
+In our study, users can customize visualization easily using FlowNL.
